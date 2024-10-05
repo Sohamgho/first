@@ -1,4 +1,4 @@
 # first
 learn git and github
 # git
-bddjeje
+I am learning git command
